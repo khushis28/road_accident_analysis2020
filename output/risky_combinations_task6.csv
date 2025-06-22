@@ -1,0 +1,16 @@
+Cause category,Cause Subcategory,Outcome of Incident,Count
+Traffic Violation,Drunken Driving,Total number of Accidents,29854.0
+Traffic Control,Stop Sign,Total number of Accidents,29040.0
+Weather,Rainy,Total number of Accidents,28277.0
+Traffic Violation,Over Speeding,Total number of Accidents,28078.0
+Impacting Vehicle/Object,Trucks/Lorries,Total number of Accidents,27800.0
+Traffic Control,Police Controlled,Total number of Accidents,27375.0
+Weather,Sunny/Clear,Total number of Accidents,27311.0
+Junction,Four arm Junction,Total number of Accidents,27167.0
+Traffic Violation,Use of Mobile Phone,Total number of Accidents,27063.0
+Junction,Uncontrolled,Total number of Accidents,26928.0
+Traffic Violation,Jumping Red Light,Total number of Accidents,26677.0
+Road Features,Straight Road,Total number of Accidents,26589.0
+Junction,Y Junction,Total number of Accidents,26505.0
+Weather,Hail/Sleet,Total number of Accidents,26391.0
+Junction,Round about Junction,Total number of Accidents,25997.0
